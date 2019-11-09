@@ -1,1 +1,1 @@
-# Simple-iOS-App
+# Dicee-iOS-App
